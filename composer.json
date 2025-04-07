@@ -1,0 +1,14 @@
+{
+    "name": "bizzworxx/appginihelper",
+    "description": "Everyday helper functions for AppGini",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bizzworxx",
+            "email": "ticket@bizzworxx.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
