@@ -1,6 +1,6 @@
 <?php
 
-namespace bizzworxx;
+namespace bizzworxx\appginihelper;
 
 class AppGiniHelper
 {
